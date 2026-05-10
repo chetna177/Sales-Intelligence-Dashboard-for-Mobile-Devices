@@ -8,4 +8,4 @@ Time-series sales trends
 Interactive filters and drill-down reports
 
 This project demonstrates skills in data visualization, Power Query, DAX, dashboard design, and business intelligence reporting.
-![Dashboard Preview](/Screenshot2026-05-10183924.png)
+![Dashboard Preview](/mobilesales.png)
